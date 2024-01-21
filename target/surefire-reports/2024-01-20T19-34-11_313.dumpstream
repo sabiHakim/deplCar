@@ -1,0 +1,5 @@
+# Created at 2024-01-20T19:34:12.737
+Boot Manifest-JAR contains absolute paths in classpath 'D:\3emeAnnee\Rojo\ProjetFinalS5\vaika\vaika\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
